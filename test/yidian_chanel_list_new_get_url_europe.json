@@ -1,0 +1,18 @@
+{
+    "cend": "30",
+    "channel_id": "21452334049",
+    "channel_position": "4",
+    "cstart": "0",
+    "eventid": "10d7104299facb6ad8a86ea9dbd3f028",
+    "fields%5B%5D": "down", "group_fromid": "g184",
+    "infinite": "true",
+    "refresh": "1",
+    "searchentry": "channel_navibar",
+    "version": "020600",
+    "distribution": "com.apple.appstore",
+    "appid": "pro",
+    "cv": "4.6.2.1",
+    "platform": "0",
+    "net": "wifi",
+    "reqid": "b26x29ij_1524128688959_25"
+}

@@ -1,0 +1,28 @@
+{
+    "eventid": "d1264b0c7e862f4b305bece13244744a",
+    "net": "wifi",
+    "ranker": "search",
+    "group_fromid": "g181",
+    "fields%5B%5D": "down",
+    "searchentry": "channel_navibar_sec",
+    "refresh": "0",
+    "cstart": "0",
+    "channel_id": "v25350",
+    "reqid": "b26x29ij_1523943791188_67",
+    "version": "020600",
+    "platform": "0",
+    "appid": "pro",
+    "infinite": "true",
+    "distribution": "com.apple.appstore",
+    "cv": "4.6.2.1",
+    "cend": "30"
+}
+
+{
+    "fields%5B%5D": "down",
+    "channel_id": "v25350",
+    "refresh": "1",
+    "reqid": "b26x29ij_1523948770563_54",
+    "cstart": "48"
+}
+

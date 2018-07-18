@@ -1,0 +1,18 @@
+{
+    "channel_id": "m371643",
+    "fields": "up",
+    "cstart": "0",
+    "cend": "20",
+    "always_summary": "true",
+    "infinite": "false",
+    "is_followed": "0",
+    "searchentry": "channel_navibar",
+    "eventid": "4a84bc34af26f6678d95e9875b664992",
+    "platform": "0",
+    "distribution": "com.apple.appstore",
+    "appid": "pro",
+    "cv": "4.6.2.1",
+    "net": "wifi",
+    "version": "020600"
+}
+

@@ -1,0 +1,10 @@
+安装 anaconda
+
+安装 ffmpeg
+https://www.ffmpeg.org/
+(windows下为绿色版，放到一定位置并设置好path路径就好，mac下请使用brew install.)
+
+安装 you-get
+https://github.com/soimort/you-get
+pip install you-get
+
